@@ -17,3 +17,10 @@ This repository contains a Python script to calculate various properties of sing
 
 ### Example
 
+
+The output will display the calculated properties of the SWCNT.
+
+## Requirements
+
+- Python 3
+
